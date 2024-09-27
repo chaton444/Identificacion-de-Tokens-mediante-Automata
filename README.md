@@ -36,5 +36,5 @@ El proyecto incluye todos los códigos desarrollados y está preparado para ser 
 
 ## Autores
 
-- [Tu Nombre]
-- [Nombre de tu Compañero, si aplica]
+- Fernando Leon Medina
+- Alejandro Valenzuela
