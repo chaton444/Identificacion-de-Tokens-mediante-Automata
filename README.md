@@ -1,4 +1,4 @@
-# Proyecto de Identificación de Tokens mediante Autómata
+# Proyecto de Identificación de Tokens mediante Autómata 🤖
 
 Este proyecto tiene como objetivo implementar un autómata que identifique y clasifique tokens en archivos de texto. La aplicación desarrollada permite a los usuarios cargar un archivo de texto que contiene una serie de tokens, los cuales son analizados y reportados por el sistema.
 
