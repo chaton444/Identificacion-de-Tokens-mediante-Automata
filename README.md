@@ -23,13 +23,7 @@ Este proyecto tiene como objetivo implementar un autómata que identifique y cla
   - Se proporciona una interfaz de usuario intuitiva que permite cargar el archivo de texto, visualizar y modificar su contenido directamente desde la aplicación.
 
 - **Lenguaje de Programación**: 
-  - El proyecto puede ser desarrollado en un lenguaje de elección (Java, Python, C#, etc.), con la condición de que la interfaz sea visual y el análisis de tokens se realice utilizando un autómata, evitando el uso de expresiones regulares.
-
-
-## Entrega
-
-El proyecto incluye todos los códigos desarrollados y está preparado para ser entregado de acuerdo con las pautas establecidas.
-
+  - El proyecto Se realizo en Java ☕
 ## Autores
 
 - Fernando Leon Medina
