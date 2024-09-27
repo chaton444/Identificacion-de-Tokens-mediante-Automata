@@ -25,10 +25,6 @@ Este proyecto tiene como objetivo implementar un autómata que identifique y cla
 - **Lenguaje de Programación**: 
   - El proyecto puede ser desarrollado en un lenguaje de elección (Java, Python, C#, etc.), con la condición de que la interfaz sea visual y el análisis de tokens se realice utilizando un autómata, evitando el uso de expresiones regulares.
 
-## Consideraciones Técnicas
-
-- Se ha seguido estrictamente la especificación del autómata, asegurando que cada carácter sea tratado como una entrada única para su identificación.
-- Las palabras reservadas deben ser escritas en minúsculas, mientras que el análisis es insensible a mayúsculas y minúsculas en otros tokens.
 
 ## Entrega
 
